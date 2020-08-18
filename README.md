@@ -1,0 +1,2 @@
+# GoodToHelp
+“USED BATTER  TO GOOD USE” is a web based project which is made for donating our used items online to help somebody who is in need.  Unused and unwanted possessions tend to accumulate so much that it becomes an overwhelming burden when it’s time to move. It is because once in a year when you clean your home of cluster, you might have some old clothes, toys or furniture that could go to someone in need.
